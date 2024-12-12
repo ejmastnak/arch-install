@@ -38,6 +38,7 @@ See dedicated notes.
 
 ```bash
 # Or amd-ucode for machines with an AMD processor
+# You might also want tmux to split-screen instructions
 pacstrap /mnt base linux linux-firmware intel-ucode vim
 ```
 
